@@ -1,0 +1,44 @@
+.menu {
+	width: 99%;
+	height: 50px;
+  background: rgba(0,0,0,.7);
+}
+
+.menu li {
+	list-style: none;
+	font-size: 25px;
+}
+
+.none { display: none; }
+
+.fa-eye-slash {
+	cursor: pointer;
+	color: black;
+	font-size: 22px;
+}
+
+.back3{
+			background-image: url(back3.jpg);
+			background-size: cover;
+			background-repeat: no-repeat;
+		}
+
+		.back4{
+			background-image: url(back4.jpg);
+			background-size: cover;
+			background-repeat: no-repeat;
+		}
+
+		.back5{
+			background-image: url(back5.jpg);
+			background-size: cover;
+			background-repeat: no-repeat;
+		}
+
+
+		.menu img{
+			height: 50px;
+			width: 55px;
+			margin-right: 20px;
+			cursor: pointer;
+		}
